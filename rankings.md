@@ -1,2 +1,7 @@
-Date; Jack (dean); Anuj
-Nov 28, 2018; 3; 1
+```
+A: Anuj
+J: Jack (dean)
+Games are best of 3, then one decider game
+
+Nov 28, 2018: A, J, J, J
+```
