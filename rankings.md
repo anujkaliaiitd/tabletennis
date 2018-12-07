@@ -10,4 +10,5 @@ Dec 02, 2018: A, J, A, J
 Dec 03, 2018: J, A, A, J
 Dec 04, 2018: Leg injury
 Dec 05, 2018: J, A, J, A
+Dec 06, 2018: A, J, A, A
 ```
