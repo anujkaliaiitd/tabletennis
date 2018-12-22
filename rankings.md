@@ -20,4 +20,6 @@ Dec 16, 2018: J, A, J, J
 Dec 17, 2018: A, A, A, A
 Dec 18, 2018: J, A, A, A
 Dec 19, 2018: J, A, J, J
+Dec 20, 2018: A, A, A, J
+Dec 21, 2018: A, A, A, J
 ```
