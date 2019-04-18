@@ -1,6 +1,7 @@
 ```
 A: Anuj
-J: Jack (dean)
+J: Jack
+H: Angela
 Games are best of 3, then one decider game
 
 Nov 28, 2018: J, A, J, J
@@ -26,4 +27,6 @@ Dec 21, 2018: A, A, A, J
 Jan 03, 2019: A, A, A, J
 Jan 04, 2019: A, J, A, A
 Jan 06, 2019: J, J, J, A
+
+Apr 18, 2019: A, A, H
 ```
