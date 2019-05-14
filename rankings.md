@@ -34,4 +34,6 @@ Apr 23, 2019: A, H, H, A
 Apr 24, 2019: A, J, A, J
 App 30, 2019: A, A (vs H)
 May 03, 2019: H, H, A, A
+May 10, 2019: A, H, H, H
+May 13, 2019: A, J, A, J
 ```
