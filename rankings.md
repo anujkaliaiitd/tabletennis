@@ -3,6 +3,7 @@ A: Anuj
 J: Jack
 H: Angela
 Games are best of 3, then one decider game
+// Decider game decides who won
 
 Nov 28, 2018: J, A, J, J
 Nov 29, 2018: A, A, J, A
@@ -38,4 +39,6 @@ May 10, 2019: A, H, H, H
 May 13, 2019: A, J, A, J
 May 14, 2019: A, A, A, A (vs H)
 May 15, 2019: A, A, A, A (vs J)
+May 16, 2019: A, A, H, A
+May 17, 2019: J, J, J, A
 ```
