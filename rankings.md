@@ -41,4 +41,5 @@ May 14, 2019: A, A, A, A (vs H)
 May 15, 2019: A, A, A, A (vs J)
 May 16, 2019: A, A, H, A
 May 17, 2019: J, J, J, A
+May 20, 2019: A, H, A
 ```
