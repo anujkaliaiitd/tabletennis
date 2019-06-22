@@ -2,6 +2,7 @@
 A: Anuj
 J: Jack
 H: Angela
+Z: Huanchen
 Games are best of 3, then one decider game
 // Decider game decides who won
 
@@ -42,4 +43,6 @@ May 15, 2019: A, A, A, A (vs J)
 May 16, 2019: A, A, H, A
 May 17, 2019: J, J, J, A
 May 20, 2019: A, H, A
+
+Jun 22, 2019: A, Z, Z, A
 ```
