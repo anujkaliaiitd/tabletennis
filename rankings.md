@@ -55,4 +55,6 @@ Jul 02, 2019: H, H, H, A
 Jul 04, 2019: A, A (vs Z)
 Jul 05, 2019: A, Z
 Jul 06, 2019: A, Z, Z
+Jul 07, 2019: Z, A, A
+Jul 08, 2019: A, H, H
 ```
