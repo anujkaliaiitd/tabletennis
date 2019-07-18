@@ -63,5 +63,6 @@ Jul 11, 2019: A, A, A, A (vs ☆)
 Jul 14, 2019: A, A, Z
 Jul 15, 2019: A, A, Z
 Jul 15, 2019: A, A, A (vs ☆)
-Jul 16, 2019: ☆, ☆, ☆ (vs A)
+Jul 17, 2019: ☆, ☆, ☆ (vs A)
+Jul 18, 2019: A, A, A (vs ☆)
 ```
