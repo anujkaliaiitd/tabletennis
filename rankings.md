@@ -1,7 +1,7 @@
 ```
 A: Anuj
 J: Jack
-H: Angela
+☆: Angela
 Z: Huanchen
 Games are best of 3, then one decider game
 // Everyone agrees that decider game decides who won
@@ -30,29 +30,39 @@ Jan 03, 2019: A, A, A, J
 Jan 04, 2019: A, J, A, A
 Jan 06, 2019: J, J, J, A
 
-Apr 18, 2019: A, A, H
+Apr 18, 2019: A, A, ☆
 Apr 22, 2019: J, A
-Apr 23, 2019: A, H, H, A
+Apr 23, 2019: A, ☆, ☆, A
 Apr 24, 2019: A, J, A, J
-App 30, 2019: A, A (vs H)
-May 03, 2019: H, H, A, A
-May 10, 2019: A, H, H, H
+App 30, 2019: A, A (vs ☆)
+May 03, 2019: ☆, ☆, A, A
+May 10, 2019: A, ☆, ☆, ☆
 May 13, 2019: A, J, A, J
-May 14, 2019: A, A, A, A (vs H)
+May 14, 2019: A, A, A, A (vs ☆)
 May 15, 2019: A, A, A, A (vs J)
-May 16, 2019: A, A, H, A
+May 16, 2019: A, A, ☆, A
 May 17, 2019: J, J, J, A
-May 20, 2019: A, H, A
+May 20, 2019: A, ☆, A
 
 Jun 22, 2019: A, Z, Z, A
 Jun 23, 2019: A, Z, A, A, Z
 
-Jun 27, 2019: A, H, A, A
+Jun 27, 2019: A, ☆, A, A
 Jun 27, 2019: A, Z
-Jun 27, 2019: H, H (vs Z)
+Jun 27, 2019: ☆, ☆ (vs Z)
 
-Jul 02, 2019: H, H, H, A
+Jul 02, 2019: ☆, ☆, ☆, A
 Jul 04, 2019: A, A (vs Z)
 Jul 05, 2019: A, Z
 Jul 06, 2019: A, Z, Z
+Jul 07, 2019: Z, A, A
+Jul 08, 2019: A, ☆, ☆
+Jul 10, 2019: ☆, ☆, ☆, A
+Jul 11, 2019: A, A, A, A (vs ☆)
+
+Jul 14, 2019: A, A, Z
+Jul 15, 2019: A, A, Z
+Jul 15, 2019: A, A, A (vs ☆)
+Jul 17, 2019: ☆, ☆, ☆ (vs A)
+Jul 18, 2019: A, A, A (vs ☆)
 ```
