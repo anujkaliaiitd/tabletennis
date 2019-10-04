@@ -87,4 +87,5 @@ Sep 23, 2019: A, A, A (vs ☆)
 Sep 24, 2019: J, A, J, A
 
 Oct 1, 2019: J, A, J, A
+Oct 3, 2019: ☆ (vs A)
 ```
