@@ -93,4 +93,6 @@ Oct 11, 2019: A, A (vs ☆)
 Oct 14, 2019: J, A, J, A
 Oct 14, 2019: A, ☆, ☆
 Oct 17, 2019: J, A, J, J
+Oct 17, 2019: A, A, A, A (vs ☆)
+Oct 18, 2019: A, A, A, J
 ```
