@@ -3,6 +3,10 @@ A: Anuj
 J: Jack
 ☆: Angela
 Z: Huanchen
+D: Daehyeok
+F: Francis
+N: Nikita
+
 Games are best of 3, then one decider game
 // Everyone agrees that decider game decides who won
 
@@ -104,4 +108,6 @@ Oct 31, 2019: A (vs ☆)
 
 Dec 20, 2019: J, J, J, A
 Dec 20, 2019: ☆, A, A, A
+
+Jun 21, 2022: FN, FN, DA, DA
 ```
